@@ -1,0 +1,21 @@
+# Calorie Burn Prediction
+
+## Project Overview
+This project predicts the number of calories burned based on provided features using a trained machine learning model.
+
+## Dependencies
+- pandas
+- numpy
+- scikit-learn
+- joblib
+- matplotlib
+
+## Setup Instructions
+1. Clone the repository.
+2. Create a virtual environment and activate it.
+3. Install dependencies using `pip install -r requirements.txt`.
+
+## Usage Instructions
+1. Preprocess the data by running `data_preprocessing.py`.
+2. Train the model by running `model_training.py`.
+3. Evaluate the model by running `evaluate_model.py`.
